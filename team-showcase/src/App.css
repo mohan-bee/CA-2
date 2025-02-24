@@ -1,0 +1,19 @@
+.card{
+  background-color: beige;
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.149);
+  border: 2px solid black;
+}
+.main{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
